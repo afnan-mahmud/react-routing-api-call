@@ -1,0 +1,13 @@
+.infobox{
+    margin: 20px;
+    border-radius: 10px;
+    width: 250px;
+    height: 300px;
+    cursor: pointer;
+    border: none;
+}
+.infobox:hover{
+    box-shadow: 10px 10px 25px lightgray;
+    transition: 0.3s;
+    background-color: white;
+}
